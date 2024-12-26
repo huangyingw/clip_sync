@@ -1,3 +1,5 @@
 [deploy]
 	host = localhost
 	path = ~/loadrc/clip_sync
+[push]
+    remote = origin
